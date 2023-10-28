@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/Unit - 10 Level Design/Game/Fantasy_Game/MyProject/Content/Character/Inputs/IA_Crouch.uasset",
+				"D:/Projects/Unit - 10 Level Design/Game/Fantasy_Game/MyProject/Content/Character/BluePrints/BP_Player.uasset",
+				"D:/Projects/Unit - 10 Level Design/Game/Fantasy_Game/MyProject/Content/Character/Inputs/IMC_Game.uasset",
+				"D:/Projects/Unit - 10 Level Design/Game/Fantasy_Game/MyProject/Content/Worlds/Base_Level.umap",
 				"D:/Projects/Unit - 10 Level Design/Game/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Projects/Unit - 10 Level Design/Game/MyProject/Content/Character/Inputs/IA_Game.uasset",
 				"D:/Projects/Unit - 10 Level Design/Game/MyProject/Content/Character/Inputs/IMC_Game.uasset",
