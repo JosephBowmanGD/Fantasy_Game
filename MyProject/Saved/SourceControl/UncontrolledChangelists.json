@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"O:/yokia drift clone/Fantasy_Game/MyProject/Content/Assets/chain/FbxScene_chain_export.uasset",
+				"O:/yokia drift clone/Fantasy_Game/MyProject/Content/Assets/chain/pTorus25.uasset",
+				"O:/yokia drift clone/Fantasy_Game/MyProject/Content/Assets/chain/lambert1.uasset",
+				"O:/yokia drift clone/Fantasy_Game/MyProject/Content/Assets/chain/chain_export.uasset",
+				"O:/yokia drift clone/Fantasy_Game/MyProject/Content/Assets/chain/chain_material.uasset",
 				"D:/Projects/Unit - 10 Level Design/Game/Fantasy_Game/MyProject/Content/Character/Inputs/IA_Crouch.uasset",
 				"D:/Projects/Unit - 10 Level Design/Game/Fantasy_Game/MyProject/Content/Character/BluePrints/BP_Player.uasset",
 				"D:/Projects/Unit - 10 Level Design/Game/Fantasy_Game/MyProject/Content/Character/Inputs/IMC_Game.uasset",
